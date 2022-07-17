@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![proje resmi](http://url/resim.png)
+![proje resmi](https://github.com/enestoy/kodluyoruzilkrepo/blob/main/resim.png)
